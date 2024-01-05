@@ -2229,10 +2229,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tsconfig/node18@npm:^18.2.2":
-  version: 18.2.2
-  resolution: "@tsconfig/node18@npm:18.2.2"
-  checksum: 1c4b04b570e33de14bf518492e077079db2dcfba738c8d40c6ff916d94c9410246f4cb56f0802d9771423862140bf714c35d4a5f6cec2446d851cf61d3f8f9df
+"@tsconfig/node20@npm:^20.1.2":
+  version: 20.1.2
+  resolution: "@tsconfig/node20@npm:20.1.2"
+  checksum: fc126e15f0817bd328c15bd6be7972f01ef4d55ceb493c7a83ccb9dd545e39f218711f330e3df4072b116b11180c07943da2b2bfcd7adc58414cb586db52a4c8
   languageName: node
   linkType: hard
 
@@ -6391,7 +6391,7 @@ __metadata:
     "@babel/core": ^7.23.7
     "@babel/preset-env": ^7.23.7
     "@babel/preset-typescript": ^7.23.3
-    "@tsconfig/node18": ^18.2.2
+    "@tsconfig/node20": ^20.1.2
     "@types/jest": ^29.5.11
     "@types/node": ^20.10.6
     "@typescript-eslint/eslint-plugin": ^6.17.0
