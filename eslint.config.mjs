@@ -11,5 +11,8 @@ export default tseslint.config(
   eslintPluginUnicorn.configs['flat/recommended'],
   {
     files: ["**/*.ts", "**/*.tsx"]
+  },
+  {
+    ignores: [".husky/", ".yarn/", "coverage/", "node_modules/"]
   }
 )
